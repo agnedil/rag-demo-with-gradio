@@ -36,7 +36,7 @@ To run this application, you need to have Python and Gradio installed. Follow th
 2. Create and activate a virtual environment of your choice (venv, conda, etc.).
 3. Install dependencies from the requirements.txt file by running `pip install -r requirements.txt`.
 4. Set up environment variables REPLICATE_API_TOKEN (for a Llama 2 model hosted on replicate.com) and COHERE_API_KEY (for embeddings and reranking service on cohere.com)
-4. Start the Gradio app by running `python rag_gradio_app.py`.
+4. Start the Gradio app by running `python app.py`.
 
 ## Licence
 MIT license
